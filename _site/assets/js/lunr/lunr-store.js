@@ -303,4 +303,19 @@ var store = [{
         "excerpt":"This post should display a header with a responsive video, if the theme supports it. Settings Parameter Required Description id Required ID of the video provider Required Hosting provider of the video, either youtube or vimeo YouTube To embed the following YouTube video at url https://www.youtube.com/watch?v=XsxDH4HcOWA (long version) or https://youtu.be/XsxDH4HcOWA...","categories": ["Layout","Uncategorized"],
         "tags": ["video","layout"],
         "url": "http://localhost:4000/layout/uncategorized/layout-header-video/",
+        "teaser":null},{
+        "title": "jekyll : apply theme to github",
+        "excerpt":"change the baseurl and url to be shown on githun    ","categories": ["Jekyll"],
+        "tags": [],
+        "url": "http://localhost:4000/jekyll/jekyll/",
+        "teaser":null},{
+        "title": "machine learning: test",
+        "excerpt":" categories:          machine       select * from *  ","categories": [],
+        "tags": [],
+        "url": "http://localhost:4000/machine_learning-test/",
+        "teaser":null},{
+        "title": "Post: Future Date",
+        "excerpt":"This post lives in the future and is dated Fri Dec 31 00:00:00 9999. When building Jekyll with the --future flag it should appear.  ","categories": ["Post"],
+        "tags": [],
+        "url": "http://localhost:4000/post/post-future-date/",
         "teaser":null}]

@@ -1,0 +1,11 @@
+I"Ô<hr />
+<p>categories:</p>
+<ul>
+  <li>
+    <h2 id="machine">machine</h2>
+  </li>
+</ul>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>select * from *
+</code></pre></div></div>
+:ET

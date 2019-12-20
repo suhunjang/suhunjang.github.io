@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-19T21:47:59-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">suhun’s learning</title><subtitle>An amazing website.</subtitle><author><name>Suhun Jang</name></author><entry><title type="html">deepLearningMath : Linear algebra</title><link href="http://localhost:4000/deeplearningmath/deepLearningMath-Linear/" rel="alternate" type="text/html" title="deepLearningMath : Linear algebra" /><published>2019-12-19T00:00:00-08:00</published><updated>2019-12-19T00:00:00-08:00</updated><id>http://localhost:4000/deeplearningmath/deepLearningMath-Linear</id><content type="html" xml:base="http://localhost:4000/deeplearningmath/deepLearningMath-Linear/">&lt;h2 id=&quot;vetor&quot;&gt;vetor&lt;/h2&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2019-12-19T22:10:27-08:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">suhun’s learning</title><subtitle>An amazing website.</subtitle><author><name>Suhun Jang</name></author><entry><title type="html">deepLearningMath : Linear algebra</title><link href="http://localhost:4000/deeplearningmath/deepLearningMath-Linear/" rel="alternate" type="text/html" title="deepLearningMath : Linear algebra" /><published>2019-12-19T00:00:00-08:00</published><updated>2019-12-19T00:00:00-08:00</updated><id>http://localhost:4000/deeplearningmath/deepLearningMath-Linear</id><content type="html" xml:base="http://localhost:4000/deeplearningmath/deepLearningMath-Linear/">&lt;h2 id=&quot;vetor&quot;&gt;vetor&lt;/h2&gt;
 
 &lt;h4 id=&quot;vector--magnitude--direction&quot;&gt;vector = magnitude + direction&lt;/h4&gt;
 
@@ -18,7 +18,137 @@
 
 &lt;h4 id=&quot;vector---unit-vector&quot;&gt;vector - Unit vector&lt;/h4&gt;
 
-&lt;p&gt;&lt;img src=&quot;/assets/img/vector5.png&quot; width=&quot;100%&quot; height=&quot;100%&quot; title=&quot;px(픽셀) 크기 설정&quot; alt=&quot;vector1&quot; /&gt;&lt;/p&gt;</content><author><name>Suhun Jang</name></author><summary type="html">vetor</summary></entry><entry><title type="html">jekyll : apply theme to github</title><link href="http://localhost:4000/jekyll/jekyll/" rel="alternate" type="text/html" title="jekyll : apply theme to github" /><published>2019-12-18T00:00:00-08:00</published><updated>2019-12-18T00:00:00-08:00</updated><id>http://localhost:4000/jekyll/jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/jekyll/">&lt;h2 id=&quot;change-the-baseurl-and-url-to-be-shown-on-githun&quot;&gt;change the baseurl and url to be shown on githun&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&quot;/assets/img/vector5.png&quot; width=&quot;100%&quot; height=&quot;100%&quot; title=&quot;px(픽셀) 크기 설정&quot; alt=&quot;vector1&quot; /&gt;&lt;/p&gt;</content><author><name>Suhun Jang</name></author><summary type="html">vetor</summary></entry><entry><title type="html">markdown: how to make markdown</title><link href="http://localhost:4000/markdown/markdown/" rel="alternate" type="text/html" title="markdown: how to make markdown" /><published>2019-12-19T00:00:00-08:00</published><updated>2019-12-19T00:00:00-08:00</updated><id>http://localhost:4000/markdown/markdown</id><content type="html" xml:base="http://localhost:4000/markdown/markdown/">&lt;h3 id=&quot;header&quot;&gt;Header&lt;/h3&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;# This is a H1
+## This is a H2
+### This is a H3
+#### This is a H4
+##### This is a H5
+###### This is a H6
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;blockquote&quot;&gt;BlockQuote&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&amp;gt; This is a blockqute.
+
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;This is a blockqute.&lt;/p&gt;
+  &lt;blockquote&gt;
+    &lt;p&gt;This is a blockqute.&lt;/p&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;This is a blockqute.&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/blockquote&gt;
+&lt;/blockquote&gt;
+
+&lt;h3 id=&quot;list-with-order&quot;&gt;List with order&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;1. 첫번째
+2. 두번째
+3. 세번째
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ol&gt;
+  &lt;li&gt;첫번째&lt;/li&gt;
+  &lt;li&gt;두번째&lt;/li&gt;
+  &lt;li&gt;세번째&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;list-without-order&quot;&gt;List without order&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* 빨강
+  * 녹색
+    * 파랑
+
++ 빨강
+  + 녹색
+    + 파랑
+
+- 빨강
+  - 녹색
+    - 파랑
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;ul&gt;
+  &lt;li&gt;빨강
+    &lt;ul&gt;
+      &lt;li&gt;녹색
+        &lt;ul&gt;
+          &lt;li&gt;파랑&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;빨강
+    &lt;ul&gt;
+      &lt;li&gt;녹색
+        &lt;ul&gt;
+          &lt;li&gt;파랑&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;빨강
+    &lt;ul&gt;
+      &lt;li&gt;녹색
+        &lt;ul&gt;
+          &lt;li&gt;파랑&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;코드-precodecodepre&quot;&gt;코드 &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;pre&amp;gt;&amp;lt;code&amp;gt;&amp;lt;/code&amp;gt;&amp;lt;/pre&amp;gt;&lt;/code&gt;&lt;/h3&gt;
+&lt;p&gt;4개의 공백 또는 하나의 탭으로 들여쓰기를 만나면 변환되기 시작하여 들여쓰지 않은 행을 만날때까지 변환이 계속된다.&lt;/p&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;한줄 띄어쓰면 인식이 제대로 안되는 문제가 발생하곤 합니다.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;This is a normal paragraph:
+
+    This is a code block.
+end code block.
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;horizon-hr&quot;&gt;Horizon &amp;lt;hr/&amp;gt;&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;* * *
+
+***
+
+*****
+
+- - -
+
+---------------------------------------
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;link&quot;&gt;Link&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;[link keyword][id]
+[id]: URL &quot;Optional Title here&quot;
+
+Link: [Google][googlelink]
+[googlelink]: https://google.com &quot;Go google&quot;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+
+&lt;h3 id=&quot;empasis&quot;&gt;empasis&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
+++underline++
+~~cancelline~~
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
+&lt;p&gt;&lt;em&gt;single asterisks&lt;/em&gt;
+&lt;em&gt;single underscores&lt;/em&gt;
+&lt;strong&gt;double asterisks&lt;/strong&gt;
+&lt;strong&gt;double underscores&lt;/strong&gt;
+++underline++
+&lt;del&gt;cancelline&lt;/del&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;image&quot;&gt;Image&lt;/h3&gt;
+&lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;![Alt text](/path/to/img.jpg)
+![Alt text](/path/to/img.jpg &quot;Optional title&quot;)
+
+&amp;lt;img src=&quot;/path/to/img.jpg&quot; width=&quot;450px&quot; height=&quot;300px&quot; title=&quot;px(픽셀) 크기 설정&quot; alt=&quot;RubberDuck&quot;&amp;gt;&amp;lt;/img&amp;gt;&amp;lt;br/&amp;gt;
+&amp;lt;img src=&quot;/path/to/img.jpg&quot; width=&quot;40%&quot; height=&quot;30%&quot; title=&quot;px(픽셀) 크기 설정&quot; alt=&quot;RubberDuck&quot;&amp;gt;&amp;lt;/img&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;</content><author><name>Suhun Jang</name></author><summary type="html">Header</summary></entry><entry><title type="html">jekyll : apply theme to github</title><link href="http://localhost:4000/jekyll/jekyll/" rel="alternate" type="text/html" title="jekyll : apply theme to github" /><published>2019-12-18T00:00:00-08:00</published><updated>2019-12-18T00:00:00-08:00</updated><id>http://localhost:4000/jekyll/jekyll</id><content type="html" xml:base="http://localhost:4000/jekyll/jekyll/">&lt;h2 id=&quot;change-the-baseurl-and-url-to-be-shown-on-githun&quot;&gt;change the baseurl and url to be shown on githun&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;/assets/img/2019-12-19 04-10-30.png&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;</content><author><name>Suhun Jang</name></author><summary type="html">change the baseurl and url to be shown on githun</summary></entry><entry><title type="html">machine learning: test</title><link href="http://localhost:4000/machine_learning-test/" rel="alternate" type="text/html" title="machine learning: test" /><published>2019-12-18T00:00:00-08:00</published><updated>2019-12-18T00:00:00-08:00</updated><id>http://localhost:4000/machine_learning-test</id><content type="html" xml:base="http://localhost:4000/machine_learning-test/">&lt;hr /&gt;
 &lt;p&gt;categories:&lt;/p&gt;
 &lt;ul&gt;

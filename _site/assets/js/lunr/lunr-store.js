@@ -13,4 +13,9 @@ var store = [{
         "excerpt":"vetor   vector = magnitude + direction      tuple - list which has the order      vector - sum      vector - muti      vector - Unit vector     ","categories": ["deepLearningMath"],
         "tags": [],
         "url": "http://localhost:4000/deeplearningmath/deepLearningMath-Linear/",
+        "teaser":null},{
+        "title": "markdown: how to make markdown",
+        "excerpt":"Header # This is a H1 ## This is a H2 ### This is a H3 #### This is a H4 ##### This is a H5 ###### This is a H6 BlockQuote &gt; This is a blockqute. This is a blockqute. This is a blockqute. This is a blockqute. List...","categories": ["markdown"],
+        "tags": [],
+        "url": "http://localhost:4000/markdown/markdown/",
         "teaser":null}]

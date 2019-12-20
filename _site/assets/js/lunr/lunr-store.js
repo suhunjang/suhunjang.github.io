@@ -314,6 +314,11 @@ var store = [{
         "tags": [],
         "url": "http://localhost:4000/machine_learning-test/",
         "teaser":null},{
+        "title": "deepLearningMath : Linear algebra",
+        "excerpt":"vetor  \t*  vector = magnitude + direction  \t \t![](/assets/img/vector1.png) \t \t* \t\ttuple - list which has the order \t \t![](/assets/img/vector2.png)  ","categories": ["deepLearningMath"],
+        "tags": [],
+        "url": "http://localhost:4000/deeplearningmath/deepLearningMath-Linear/",
+        "teaser":null},{
         "title": "Post: Future Date",
         "excerpt":"This post lives in the future and is dated Fri Dec 31 00:00:00 9999. When building Jekyll with the --future flag it should appear.  ","categories": ["Post"],
         "tags": [],
